@@ -1,4 +1,4 @@
-/*Dr. Mark E. Lehr
+/*
   Purpose:  Curve fit of Data Structure empirical timing and/or
             operational analysis
 */
